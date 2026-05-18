@@ -29,3 +29,7 @@ I update this repository regularly with new projects and improvements.
 
 <img width="1891" height="1013" alt="Screenshot 2026-04-08 220217" src="https://github.com/user-attachments/assets/5a618423-8add-4d70-981a-fa2ce23447c8" />
 
+ICICI:
+<img width="1893" height="912" alt="image" src="https://github.com/user-attachments/assets/821d99d9-0bb0-4636-9f86-2b022cca35af" />
+
+
