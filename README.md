@@ -13,6 +13,7 @@ The goal is to improve my web development skills by building small projects and 
 - Table creation
 - Landing Pages
 - Forms and Validation
+- Eatfit blog front page
 - Responsive Layouts
 - Mini JavaScript Projects (To-Do App, Calculator, etc.)
 
