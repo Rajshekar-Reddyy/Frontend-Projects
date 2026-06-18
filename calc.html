@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .container{
+        h1{
+            text-decoration: underline;
+        }
+        border: 3px solid black;
+        border-radius: 20px;
+        
+        width: fit-content;
+        /* height: 500px; */
+        margin-top: 120px;
+        margin-left: 600px;
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 5px;
+        background-color: rgb(245, 17, 17);
+        color: white;
+        .top{
+            width: fit-content;
+            #a{
+                width: 189px;
+                height: 35px;
+            }
+            button{
+                width: 50px;
+                height: 34px;
+
+            }
+            
+        }
+        .bottom{
+            button{
+                padding: 20px;
+                border-radius: 20px;
+                font-size: 40px;
+            }
+
+        }
+    }
+</style>
+<body>
+    <div class="container">
+        <h1>CALCULATOR</h1>
+        <div class="top">
+            <input type="text" name="" id="a">
+            <button onclick="ac()" >AC</button>
+        </div>
+        <div class="bottom">
+            <table>
+                <tr>
+                    <td><button onclick="num(1)">1</button></td>
+                    <td><button  onclick="num(2)">2</button></td>
+                    <td><button  onclick="num(3)">3</button></td>
+                    <td><button  onclick="num('+')">+</button></td>
+                    
+                </tr>
+                <tr>
+                    <td><button onclick="num(4)">4</button></td>
+                    <td><button onclick="num(5)">5</button></td>
+                    <td><button onclick="num(6)">6</button></td>
+                    <td><button onclick="num('-')">-</button></td>
+                </tr>
+                 <tr>
+                    <td><button onclick="num(7)">7</button></td>
+                    <td><button onclick="num(8)">8</button></td>
+                    <td><button onclick="num(9)">9</button></td>
+                    <td><button onclick="num('*')">*</button></td>
+                </tr>
+                 <tr>
+                    <td><button onclick="num('/')">/</button></td>
+                    <td><button onclick="num(0)">0</button></td>
+                    <td><button onclick="num('.')">.</button></td>
+                    <td><button onclick="result()" >=</button></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <script src="calsi.js"></script>
+</body>
+</html>
