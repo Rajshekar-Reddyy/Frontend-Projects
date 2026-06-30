@@ -2,7 +2,7 @@
 Frontend practice repository with HTML, CSS, and JavaScript projects to improve web development skills.
 
 This repository contains my daily frontend practice using HTML, CSS, and JavaScript.  
-The goal is to improve my web development skills by building small projects and experimenting with UI designs.
+The goal is to improve my web development skills by building small projects and experimenting with UI design.
 
 📌 What I’m Practicing
 - HTML5 structure and semantic tags
