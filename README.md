@@ -33,4 +33,8 @@ I update this repository regularly with new projects and improvements.
 ICICI:
 <img width="1893" height="912" alt="image" src="https://github.com/user-attachments/assets/821d99d9-0bb0-4636-9f86-2b022cca35af" />
 
+CALCULATOR:
+<img width="1133" height="902" alt="image" src="https://github.com/user-attachments/assets/c407a07f-e2de-482f-83ab-a580159e55fb" />
+
+
 
