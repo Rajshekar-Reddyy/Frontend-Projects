@@ -2,7 +2,7 @@
 Frontend practice repository with HTML, CSS, and JavaScript projects to improve web development skills.
 
 This repository contains my daily frontend practice using HTML, CSS, and JavaScript.  
-The goal is to improve my web development skills by building small projects and experimenting with UI design.
+The goal is to improve my web development skills by building small projects and experimenting with UI design..
 
 📌 What I’m Practicing
 - HTML5 structure and semantic tags
@@ -28,6 +28,7 @@ To become a strong frontend developer and build real-world projects that can be 
 📈 Progress
 I update this repository regularly with new projects and improvements.
 
+EATFIT_BLOG:
 <img width="1891" height="1013" alt="Screenshot 2026-04-08 220217" src="https://github.com/user-attachments/assets/5a618423-8add-4d70-981a-fa2ce23447c8" />
 
 ICICI:
